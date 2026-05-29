@@ -8,3 +8,9 @@
 
 - Then I removed double spaces from the whole dataset using the `Find and Replace` method, by simply replacing double spaces with single space.
 
+  The first dashboard looked like this -
+
+  <img width="1920" height="976" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/b5bdbc22-e433-47f3-9ba5-bb76bb9a3143" />
+
+
+
