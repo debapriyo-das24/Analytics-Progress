@@ -1,4 +1,4 @@
-## In this preliminary upload I am simply showcasing basic data cleaning techniques.
+## In this preliminary upload I am simply showcasing basic data cleaning techniques. 🛠️
 
 - I have added color to the headers for distinction and made the headers in bold
 
